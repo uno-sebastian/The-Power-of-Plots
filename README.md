@@ -1,4 +1,4 @@
-# Sebastian's Matplotlib Challenge - The Power of Plots
+# The Power of Plots
 
 ## Background
 
